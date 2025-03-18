@@ -1,0 +1,13 @@
+<header>→ Cabeçalho do site, geralmente contém o título e um menu.
+
+<nav>→ Área de navegação com links.
+
+<main>→ Parte principal da página.
+
+<section>→ Seção de conteúdo relacionado.
+
+<article>→ Bloco de conteúdo independente (como uma notícia).
+
+<aside>→ Informações complementares, como links ou anúncios.
+
+<footer>→ Rodapé da página com direitos autorais ou informações extras.

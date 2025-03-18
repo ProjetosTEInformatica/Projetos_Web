@@ -1,0 +1,13 @@
+<!DOCTYPE html>→ Diz ao navegador que o documento está em HTML5.
+
+<html lang="pt-BR">→ Indica que a página está em português do Brasil.
+
+<head>→ Contém informações que não aparecem na tela, como título e meta tags.
+
+<meta charset="UTF-8">→ Permite usar acentos e caracteres especiais.
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">→ Faça com que a página se ajuste às telas de celular e computador.
+
+<title>→ Defina o título que aparece na aba do navegador.
+
+<body>→ Contém o conteúdo visível da página (textos, imagens, links, etc.).
