@@ -1,0 +1,7 @@
+Dicas Importantes!
+
+Para que você possa visualizar se seu projeto está funcionando, antes você deve copiar a pasta raiz e após colar a pasta no diretório projects dentro do caminho "C:\xampp\htdocs\projects";
+
+Sempre que você fizer alguma mudança no projeto você precisa salvá-lo clicando em arquivo -> salvar;
+
+Para atualizar o conteúdo do seu projeto você deve atualizar a página usando a tecla F5 ou o CTRL + F5.
