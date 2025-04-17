@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Simples</title>
+    <style>
+        /* Definição de cores personalizáveis */
+        :root {
+            --background-color: #eaeaea; /* Altere a cor de fundo aqui */
+            --border-color: rgba(0, 0, 0, 0.2); /* Cor da borda sutil */
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--background-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        
+        .container {
+            width: 90%;
+            max-width: 600px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px var(--border-color);
+            border: 1px solid var(--border-color);
+            text-align: center;
+        }
+        
+        img {
+            width: 150px; /* Tamanho da foto de perfil */
+            height: 150px;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto 20px;
+        }
+        
+        h1, h2, p {
+            text-align: center;
+        }
+        
+        /* Responsividade para telas menores */
+        @media (max-width: 768px) {
+            body {
+                height: auto;
+                padding: 20px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="img/icone_candidato.png" alt="Foto de Perfil"> <!-- Altere a imagem de perfil aqui -->
+        
+        <h1>Nome do Aluno</h1> <!-- Nome do aluno -->
+        <p>Email: aluno@email.com</p> <!-- Email do aluno -->
+        <p>Telefone: (00) 00000-0000</p> <!-- Telefone do aluno -->
+        
+        <h2>Objetivo</h2>
+        <p>Descreva aqui seu objetivo profissional.</p> <!-- Objetivo profissional -->
+        
+        <h2>Educação</h2>
+        <p>Escola atual - Ano letivo</p> <!-- Informações educacionais -->
+        
+        <h2>Habilidades</h2>
+        <p>Liste suas habilidades aqui.</p> <!-- Habilidades do aluno -->
+    </div>
+</body>
+</html>
