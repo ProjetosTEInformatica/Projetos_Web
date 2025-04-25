@@ -18,7 +18,7 @@
             <label for="confirmar_senha" class="form-label fw-bold">Confirmar senha<span class="text-danger">*</span></label>
             <input type="password" name="confirmar_senha" placeholder="Confirme sua senha" class="form-control" required>
         </div>
-        <div class="container-fluid d-flex justify-content-center align-itens-center">
+        <div class="container-fluid d-flex justify-content-center align-items-center">
             <button type="submit" class="btn btn-dark">Cadastrar</button>
         </div>
     </form>

@@ -10,7 +10,7 @@
             <label for="senha" class="form-label fw-bold">Senha<span class="text-danger">*</span></label>
             <input type="password" name="senha" placeholder="Digite sua senha" class="form-control" required>
         </div>
-        <div class="container-fluid d-flex justify-content-center align-itens-center">
+        <div class="container-fluid d-flex justify-content-center align-items-center">
             <button type="submit" class="btn btn-dark"> Entrar</button>
         </div>
     </form>
